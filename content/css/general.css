@@ -37,6 +37,7 @@ paragraph default: 1.6
 --- 03 Shadows
 
 --- 04 Border-radius
+11px
 
 Default:9px
 
@@ -166,4 +167,8 @@ body {
 }
 .margin-right-sm {
   margin-right: 1.6rem !important;
+}
+
+strong {
+  font-weight: 500;
 }
