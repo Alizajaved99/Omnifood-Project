@@ -124,6 +124,7 @@
   /* mobile button */
   .btn-mobile-nav {
     display: block;
+    z-index: 100;
   }
 
   .main-nav {
